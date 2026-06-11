@@ -1,0 +1,38 @@
+[2026-06-11 13:27:05] [INFO] =======================================================
+[2026-06-11 13:27:05] [INFO] SysGuard v1.0 — System Health Monitor STARTED
+[2026-06-11 13:27:05] [INFO] Thresholds → CPU:85% | RAM:80% | DISK:70%
+[2026-06-11 13:27:05] [INFO] =======================================================
+[2026-06-11 13:27:06] [INFO] CPU: 27.8% | RAM: 81.4% | DISK: 17.9% | NET ↑2074.53MB ↓1314.93MB
+[2026-06-11 13:27:06] [WARN] ⚠ WARNING — RAM at 81.4% (threshold: 80%) [breach #1]
+[2026-06-11 13:27:12] [INFO] CPU: 32.7% | RAM: 81.4% | DISK: 17.9% | NET ↑2074.58MB ↓1315.0MB
+[2026-06-11 13:27:12] [WARN] ⚠ WARNING — RAM at 81.4% (threshold: 80%) [breach #2]
+[2026-06-11 13:27:18] [INFO] CPU: 29.9% | RAM: 81.4% | DISK: 17.9% | NET ↑2074.67MB ↓1315.08MB
+[2026-06-11 13:27:18] [WARN] ⚠ WARNING — RAM at 81.4% (threshold: 80%) [breach #3]
+[2026-06-11 13:27:18] [CRITICAL] 🚨 INCIDENT DECLARED — RAM breach sustained for 3 consecutive readings
+[2026-06-11 13:27:24] [INFO] CPU: 31.5% | RAM: 81.2% | DISK: 17.9% | NET ↑2074.75MB ↓1315.18MB
+[2026-06-11 13:27:24] [WARN] ⚠ WARNING — RAM at 81.2% (threshold: 80%) [breach #4]
+[2026-06-11 13:27:30] [INFO] CPU: 27.6% | RAM: 81.8% | DISK: 17.9% | NET ↑2074.87MB ↓1315.35MB
+[2026-06-11 13:27:30] [WARN] ⚠ WARNING — RAM at 81.8% (threshold: 80%) [breach #5]
+[2026-06-11 13:27:36] [INFO] CPU: 26.9% | RAM: 81.8% | DISK: 17.9% | NET ↑2075.0MB ↓1315.57MB
+[2026-06-11 13:27:36] [WARN] ⚠ WARNING — RAM at 81.8% (threshold: 80%) [breach #6]
+[2026-06-11 13:27:42] [INFO] CPU: 46.3% | RAM: 81.9% | DISK: 17.9% | NET ↑2075.12MB ↓1315.74MB
+[2026-06-11 13:27:42] [WARN] ⚠ WARNING — RAM at 81.9% (threshold: 80%) [breach #7]
+[2026-06-11 13:27:48] [INFO] CPU: 40.8% | RAM: 81.9% | DISK: 17.9% | NET ↑2075.28MB ↓1315.97MB
+[2026-06-11 13:27:48] [WARN] ⚠ WARNING — RAM at 81.9% (threshold: 80%) [breach #8]
+[2026-06-11 13:27:54] [INFO] CPU: 25.7% | RAM: 82.1% | DISK: 17.9% | NET ↑2075.41MB ↓1316.16MB
+[2026-06-11 13:27:54] [WARN] ⚠ WARNING — RAM at 82.1% (threshold: 80%) [breach #9]
+[2026-06-11 13:28:00] [INFO] CPU: 23.4% | RAM: 82.1% | DISK: 17.9% | NET ↑2075.5MB ↓1316.27MB
+[2026-06-11 13:28:00] [WARN] ⚠ WARNING — RAM at 82.1% (threshold: 80%) [breach #10]
+[2026-06-11 13:28:06] [INFO] CPU: 31.3% | RAM: 82.6% | DISK: 17.9% | NET ↑2075.59MB ↓1316.37MB
+[2026-06-11 13:28:06] [WARN] ⚠ WARNING — RAM at 82.6% (threshold: 80%) [breach #11]
+[2026-06-11 13:28:12] [INFO] CPU: 44.9% | RAM: 82.5% | DISK: 17.9% | NET ↑2075.66MB ↓1316.44MB
+[2026-06-11 13:28:12] [WARN] ⚠ WARNING — RAM at 82.5% (threshold: 80%) [breach #12]
+[2026-06-11 13:28:18] [INFO] CPU: 25.0% | RAM: 82.4% | DISK: 17.9% | NET ↑2075.71MB ↓1316.5MB
+[2026-06-11 13:28:18] [WARN] ⚠ WARNING — RAM at 82.4% (threshold: 80%) [breach #13]
+[2026-06-11 13:28:24] [INFO] CPU: 26.1% | RAM: 82.4% | DISK: 17.9% | NET ↑2075.83MB ↓1316.67MB
+[2026-06-11 13:28:24] [WARN] ⚠ WARNING — RAM at 82.4% (threshold: 80%) [breach #14]
+[2026-06-11 13:28:30] [INFO] CPU: 27.5% | RAM: 82.4% | DISK: 17.9% | NET ↑2075.89MB ↓1316.73MB
+[2026-06-11 13:28:30] [WARN] ⚠ WARNING — RAM at 82.4% (threshold: 80%) [breach #15]
+[2026-06-11 13:28:32] [INFO] SysGuard stopped by user.
+[2026-06-11 13:28:32] [WARN] Incident was active — generating final RCA before exit...
+[2026-06-11 13:28:32] [REPORT] RCA Report generated → reports/RCA_INCIDENT_2026-06-11_13-28-32.txt
